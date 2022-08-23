@@ -1,5 +1,5 @@
 # Structs
-* [Vector2](#vector2)
+* [World](#World)
 * [WorldObject](#worldobject)
 * [NetAvatar](#netavatar)
 * [Tile](#tile)
@@ -7,8 +7,6 @@
 * [GamePacket](#gamepacket)
 * [ItemInfo](#iteminfo)
 * [VariantList](#variantlist)
-* [httpRequestInfo](#httprequestinfo)
-* [httpResponseInfo](#httpresponseinfo)
 
 ## WorldObject
 | Type | Name | Description|
