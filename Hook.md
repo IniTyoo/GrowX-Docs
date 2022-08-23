@@ -1,5 +1,7 @@
 # Hooking
 * [addHook](#addhook)
+* [removeHook](#RemoveHook)
+
 
 ## addHook
 `addHook(fname,name,function)`
